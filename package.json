@@ -1,0 +1,26 @@
+{
+  "name": "portfolio2022",
+  "version": "1.0.0",
+  "description": "Personal Portfolio 2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Virtual-Crash/Portfolio2022.git"
+  },
+  "keywords": [
+    "javascript",
+    "node.js"
+  ],
+  "author": "Kayla Jeter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Virtual-Crash/Portfolio2022/issues"
+  },
+  "homepage": "https://github.com/Virtual-Crash/Portfolio2022#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
